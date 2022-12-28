@@ -1,0 +1,7 @@
+﻿  exp2-12.cpp
+G:\college\大一下\数据结构\上机\Project2\Project4\exp2-12.cpp(59,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\college\大一下\数据结构\上机\Project2\Project4\exp2-12.cpp(61,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\college\大一下\数据结构\上机\Project2\Project4\exp2-12.cpp(55,6): warning C4101: “i”: 未引用的局部变量
+  Project4.vcxproj -> G:\college\大一下\数据结构\上机\Project2\Debug\Project4.exe

@@ -1,0 +1,4 @@
+﻿  内查找.cpp
+G:\college\大一下\数据结构\笔记\Project1\Project7\内查找.cpp(10,6): warning C4101: “i”: 未引用的局部变量
+G:\college\大一下\数据结构\笔记\Project1\Project7\内查找.cpp(25,6): warning C4101: “i”: 未引用的局部变量
+  Project7.vcxproj -> G:\college\大一下\数据结构\笔记\Project1\Debug\Project7.exe

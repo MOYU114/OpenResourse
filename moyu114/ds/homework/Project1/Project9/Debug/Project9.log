@@ -1,0 +1,6 @@
+﻿  源.cpp
+G:\college\大一下\数据结构\homework\Project1\Project9\源.cpp(1,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+G:\college\大一下\数据结构\homework\Project1\Project9\源.cpp(1,9): error C2146: 语法错误: 缺少“;”(在标识符“predt”的前面)
+G:\college\大一下\数据结构\homework\Project1\Project9\源.cpp(2,15): error C2065: “BSTNode”: 未声明的标识符
+G:\college\大一下\数据结构\homework\Project1\Project9\源.cpp(2,24): error C2065: “bt”: 未声明的标识符
+G:\college\大一下\数据结构\homework\Project1\Project9\源.cpp(3,1): error C2448: “JudgeBST”: 函数样式初始值设定项类似函数定义

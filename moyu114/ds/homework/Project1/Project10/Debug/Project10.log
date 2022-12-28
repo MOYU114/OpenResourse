@@ -1,0 +1,13 @@
+﻿  源1.cpp
+G:\college\大一下\数据结构\homework\Project1\Project10\sqlist.cpp(59): warning C4715: “ListSearch”: 不是所有的控件路径都返回值
+源1.obj : error LNK2005: "void __cdecl CreateList(struct SqList * &,char * const,int)" (?CreateList@@YAXAAPAUSqList@@QADH@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "void __cdecl InitList(struct SqList * &)" (?InitList@@YAXAAPAUSqList@@@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "bool __cdecl ListDelete(struct SqList * &,int,char &)" (?ListDelete@@YA_NAAPAUSqList@@HAAD@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "void __cdecl ListDestroy(struct SqList * &)" (?ListDestroy@@YAXAAPAUSqList@@@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "bool __cdecl ListEmpty(struct SqList *)" (?ListEmpty@@YA_NPAUSqList@@@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "bool __cdecl ListGet(struct SqList *,int,char &)" (?ListGet@@YA_NPAUSqList@@HAAD@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "bool __cdecl ListInsert(struct SqList * &,int,char)" (?ListInsert@@YA_NAAPAUSqList@@HD@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "int __cdecl ListLength(struct SqList *)" (?ListLength@@YAHPAUSqList@@@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "void __cdecl ListPrint(struct SqList *)" (?ListPrint@@YAXPAUSqList@@@Z) 已经在 sqlist.obj 中定义
+源1.obj : error LNK2005: "int __cdecl ListSearch(struct SqList *,char)" (?ListSearch@@YAHPAUSqList@@D@Z) 已经在 sqlist.obj 中定义
+G:\college\大一下\数据结构\homework\Project1\Debug\Project10.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
